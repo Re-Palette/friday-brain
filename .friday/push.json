@@ -7,5 +7,14 @@
   },
   "label": "Windows / Chrome",
   "createdAt": "2026-09-29T13:33:17.072Z"
+ },
+ {
+  "endpoint": "https://fcm.googleapis.com/fcm/send/djMP0Izzgr0:APA91bHxAS7mzQksgcVOetlomcM0JSm-H0XNY3XVKxAwSlF7pQGf6FtERBp32wmTAduJByPHzxnBsgEHUqqjswY8H6XCT1-a8O2_CagxpVdHyN3pYkK7ap1N2N1KnABlPF5BMjCSIoA2",
+  "keys": {
+   "p256dh": "BCW3XM5bVjJKYm8mHkaoUKxeJwKVRYh25sUhTsOMDzcY6EuOTyYTaRBUR6HLWStzsdynGs3fVajJRoNzh8l_tfc",
+   "auth": "7nHvTzfKDIa0rP2BzgUoeQ"
+  },
+  "label": "Android / Chrome",
+  "createdAt": "2026-09-29T14:14:33.333Z"
  }
 ]
