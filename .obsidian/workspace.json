@@ -11,10 +11,14 @@
             "id": "ed635d26aa0702b0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "FRIDAY/会話ログ/2026-09-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-30"
             }
           }
         ]
@@ -187,18 +191,18 @@
   },
   "active": "ed635d26aa0702b0",
   "lastOpenFiles": [
-    "FRIDAY/記憶.md",
-    "FRIDAY/リマインダー.md",
+    "FRIDAY/ToDo.md",
     "FRIDAY/会話ログ/2026-09-30.md",
     "FRIDAY/プロフィール.md",
+    "FRIDAY/リマインダー.md",
+    "FRIDAY/設定.md",
+    "FRIDAY/記憶.md",
+    "メモ/はじめに.md",
     "FRIDAY/会話ログ/2026-09-28.md",
     "FRIDAY/会話ログ/2026-09-29.md",
-    "FRIDAY/設定.md",
-    "FRIDAY/ToDo.md",
     "プロジェクト/はじめに.md",
     "日記/2026-09-29.md",
     "日記",
-    "メモ/はじめに.md",
     "README.md",
     "FRIDAY/会話ログ"
   ]
