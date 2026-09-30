@@ -1,0 +1,20 @@
+[
+ {
+  "endpoint": "https://fcm.googleapis.com/fcm/send/fB0t2_cmzxo:APA91bHAtMleGrV58aM98D0SKxTA7asfzHxOkIdRRPOxhGQbj32tOjqbxl8gG6k8Lu2dCgkaU5bsgUq2Dsy65Egiyw9JYUKwjE2nXaVyttzZrRHe0oUYC8dqhFIF5yy5LJMOrBjq6d5p",
+  "keys": {
+   "p256dh": "BIZ3ZROnEPeRlft9-gG9rMw7UscXY_6JZ63GKTappsAhWWc5nPwIr5DPdXnSyYbicEs-qh9ZVl-UgkEko8NyZnE",
+   "auth": "RLlYGF5pnz2qnxdXR6qR2w"
+  },
+  "label": "Windows / Chrome",
+  "createdAt": "2026-09-29T13:33:17.072Z"
+ },
+ {
+  "endpoint": "https://fcm.googleapis.com/fcm/send/djMP0Izzgr0:APA91bHxAS7mzQksgcVOetlomcM0JSm-H0XNY3XVKxAwSlF7pQGf6FtERBp32wmTAduJByPHzxnBsgEHUqqjswY8H6XCT1-a8O2_CagxpVdHyN3pYkK7ap1N2N1KnABlPF5BMjCSIoA2",
+  "keys": {
+   "p256dh": "BCW3XM5bVjJKYm8mHkaoUKxeJwKVRYh25sUhTsOMDzcY6EuOTyYTaRBUR6HLWStzsdynGs3fVajJRoNzh8l_tfc",
+   "auth": "7nHvTzfKDIa0rP2BzgUoeQ"
+  },
+  "label": "Android / Chrome",
+  "createdAt": "2026-09-29T14:14:33.333Z"
+ }
+]
