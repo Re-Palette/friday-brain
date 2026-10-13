@@ -1,1 +1,1 @@
-{"persona":"friday","turns":[{"role":"user","content":"こんばんは","at":1791898950459},{"role":"assistant","content":"こんばんは、陽大。準備できています。","at":1791898950459}]}
+{"persona":"friday","turns":[{"role":"user","content":"こんばんは","at":1791898950459},{"role":"assistant","content":"こんばんは、陽大。準備できています。","at":1791898950459},{"role":"user","content":"明日の予定は？","at":1791898975259},{"role":"assistant","content":"まだ予定が登録されていないようです。明日の予定を教えてもらえれば、整理して記録しておきます。","at":1791898975259}]}
